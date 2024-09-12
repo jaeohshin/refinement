@@ -1,3 +1,1 @@
-# first-repo
-# refinement
-# refinement
+# OpenMM code for refinement Molecular dynamics simulation
