@@ -1,1 +1,1 @@
-# OpenMM code for refinement Molecular dynamics simulation
+# OpenMM code for refinement molecular dynamics simulation.
