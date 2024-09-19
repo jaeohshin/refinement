@@ -1,5 +1,7 @@
 # OpenMM code for refinement molecular dynamics simulation.
 
+This code has been used for CASP16 (2024) DeepFold-refinement.
+
 코드에서 고쳐야할것/ 포함해야할것/ 포함하면 좋을것들 
 
 1. 에너지항을 개별적으로 출력하기 하여 Restraint로 포함시킨 에너지항이 제대로 들어갔는지 확인
